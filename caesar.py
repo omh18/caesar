@@ -2,8 +2,6 @@
 
 key = int(input('Please enter a key: '))
 message = input('Please enter a message to encrypt: ')
-    
-key = int(key)
 
 encrypted_message = ''
  
