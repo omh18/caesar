@@ -5,7 +5,7 @@ message = input('Please enter a message to encrypt: ')
     
 key = int(key)
 
-encrypted_message = ' '
+encrypted_message = ''
  
 for letter in message:
 
